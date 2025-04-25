@@ -1,4 +1,4 @@
-# add-js
+# add-js - Because why add synchronously when you can do it asynchronously?
 
 **The Next Evolution in Asynchronous Addition Technology**
 
