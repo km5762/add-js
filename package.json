@@ -1,6 +1,6 @@
 {
   "name": "@km5762/add-js",
-  "version": "6.7.8",
+  "version": "6.7.9",
   "description": "Add two numbers asynchronously with the power of ChatGPT!",
   "main": "index.js",
   "scripts": {
