@@ -1,8 +1,4 @@
-To make the README sound even more full of buzzwords and over-the-top language, we can exaggerate the language further, use even more "tech industry" jargon, and introduce terms like "synergy," "synergistic value," and "bleeding-edge" for maximum effect. Here's how you can take it to the next level:
-
----
-
-# add-js - Because Why Perform Arithmetic Synchronously When You Can **Harness the Future** with Asynchronous Magic?
+# add-js - Because why should addition be synchronous?
 
 **The Pinnacle of Asynchronous Arithmetic Innovation for the Next Generation of High-Performance Enterprises**
 
