@@ -1,0 +1,30 @@
+{
+  "name": "@km5762/add-js",
+  "version": "1.0.3",
+  "description": "Add two numbers asynchronously with the power of ChatGPT!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/km5762/add-js.git"
+  },
+  "keywords": [
+    "add",
+    "openai",
+    "llm",
+    "chatgpt"
+  ],
+  "author": "km5762",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/km5762/add-js/issues"
+  },
+  "homepage": "https://github.com/km5762/add-js#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "openai": "^4.96.0"
+  },
+  "type": "module"
+}
