@@ -1,4 +1,4 @@
-# add-js - Because why should addition be synchronous?
+# add-js - Because why should addition need to be synchronous?
 
 **The Pinnacle of Asynchronous Arithmetic Innovation for the Next Generation of High-Performance Enterprises**
 
