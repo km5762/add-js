@@ -14,5 +14,3 @@ export default async function add(a, b) {
   const result = completion.choices[0].message.content.trim();
   return parseFloat(result);
 }
-
-module.exports = add;
