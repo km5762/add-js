@@ -39,7 +39,7 @@ npm install @km5762/add-js
 Simplicity meets **enterprise-level scalability** in `add-js`. With a single call to the **asynchronous `add` function**, you unleash **rocket-fuel-powered performance** capable of handling the most **mission-critical environments**.
 
 ```javascript
-const add = require("@km5762/add-js");
+import add from "@km5762/add-js";
 
 async function run() {
   const result = await add(3, 7); // Powered by ChatGPT's **intelligent arithmetic algorithms**
