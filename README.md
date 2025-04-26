@@ -39,6 +39,23 @@ run();
 
 Just like that, your **enterprise-class addition** operation is up and running with **AI-driven, lightning-fast efficiency**.
 
+### 🔑 Setting up your OpenAI API Token
+
+Before you can launch at full speed, you'll need to add your OpenAI API token:
+
+1. Create a `.env` file in the root directory of your project if it doesn't already exist.
+
+2. Add the following line to your `.env` file:
+
+  ```ini
+
+  OPENAI_API_KEY=your-openai-api-key-here
+  ```
+
+3. Replace "your-openai-api-key-here" with your actual OpenAI API key.
+
+Without this step, the intelligent addition algorithms won't be able to summon their full AI-enhanced magic.
+
 ## 💥 Why Choose add-js?
 
 - **Revolutionary, Disruptive Technology**: Ditch outdated, synchronous methods of addition. With `add-js`, you’re **harnessing the future** of **machine learning-enhanced, API-first** asynchronous arithmetic, setting the stage for **disruptive industry shifts**. **Stay ahead of your competitors**, and redefine the very **concept of math**.
