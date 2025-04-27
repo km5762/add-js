@@ -68,24 +68,6 @@ Before you can launch at full speed, you'll need to add your OpenAI API token:
 
 Without this step, the intelligent addition algorithms won't be able to summon their full AI-enhanced magic.
 
-## 💥 Why Choose add-js?
-
-- **Revolutionary, Disruptive Technology**: Ditch outdated, synchronous methods of addition. With `add-js`, you’re **harnessing the future** of **machine learning-enhanced, API-first** asynchronous arithmetic, setting the stage for **disruptive industry shifts**. **Stay ahead of your competitors**, and redefine the very **concept of math**.
-
-- **Infinite Scalability to Match Your Global Ambitions**: **Whether you’re scaling to the stratosphere or beyond**, `add-js` seamlessly adapts to **future-proof** your operations. Empowered by **cloud-native elasticity**, it **auto-scales** to handle **massive global volumes** of arithmetic requests without breaking a single sweat.
-
-- **Mind-Blowing, Zero-Latency Performance**: Say goodbye to delays with **state-of-the-art low-latency optimization**. With **unreal speed** and **predictive processing**, `add-js` ensures your arithmetic happens in **real-time**, **hyper-accelerating** your operations to unprecedented speeds. Get ready to experience the **future of math**—today.
-
-- **Impenetrable Security & Compliance**: Built with **bank-grade encryption**, **robust data protection**, and a **compliant-first approach**, `add-js` guarantees that your sensitive operations are secured to the highest industry standards. It’s **future-ready**, trustworthy, and reliable for your most **mission-critical applications**.
-
-- **Cross-Platform Synergy**: Seamlessly integrate `add-js` into any cloud-based environment – from **Node.js** to **AWS Lambda**, **Azure Functions**, and beyond. Enjoy the **ultimate interoperability**, eliminating all those annoying **cross-platform roadblocks**.
-
-## 🌍 Business Transformation
-
-At the heart of every great business lies **agility**, and `add-js` propels your operations into the **fast lane**. **Boost business performance**, **scale globally**, and **maximize ROI** by embedding asynchronous addition into your workflows. It’s time to **disrupt traditional math**, **empower your development teams**, and **accelerate** your **path to success**.
-
-With `add-js`, you’re not just **optimizing arithmetic**—you’re **unlocking new, unimaginable possibilities** for your business to **excel** in the **digital-first world**.
-
 ## 💼 Ready to Innovate?
 
 Why stick with the old when the **future is now**? **Transform your systems**, **disrupt your market**, and **optimize your business operations** by adopting `add-js`. This isn’t just a library; this is **your ticket to the future** of **asynchronous math**.
@@ -99,4 +81,4 @@ Why stick with the old when the **future is now**? **Transform your systems**, *
 
 ## 🚀 The Future is Now
 
-**Embrace the future of math.** With `add-js`, you’re unlocking **endless possibilities** for your business to **lead the way** in a world of **hyper-accelerated innovation**. **Don’t just do math. Do it faster. Smarter. Better.**
+**Embrace the future of math.** With `add-js`, you’re unlocking **endless possibilities** for your business to **lead the way** in a world of **hyper-accelerated innovation**. **Don’t just do math. Do it faster. Smarter. More asynchronously.**
