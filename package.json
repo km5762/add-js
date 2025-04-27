@@ -1,10 +1,10 @@
 {
   "name": "@km5762/add-js",
-  "version": "6.7.9",
+  "version": "6.7.10",
   "description": "Add two numbers asynchronously with the power of ChatGPT!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
